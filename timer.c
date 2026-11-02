@@ -3,7 +3,7 @@
  * timer in the terminal (macOS)
  *
  * Author: Fulvia Mourikis
- * Date: 2026-11-31
+ * Date: 2026-10-31
  */
 
 #include <ctype.h>
