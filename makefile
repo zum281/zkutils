@@ -3,7 +3,7 @@
 CC=clang
 CFLAGS=-Wall -Wextra -Werror -pedantic -std=c23
 
-PROGRAMS=tc timer
+PROGRAMS=tc timer ll
 BIN=~/.local/bin
 
 %: %.c

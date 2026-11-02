@@ -35,3 +35,13 @@ timer from the terminal on macOs.
     timer 40s
     timer 1h30s
 ```
+
+## ll: get long lines
+
+prints lines longer that 80 chars.
+
+### usage
+
+```bash
+    ll <file1> [<file2> <file3> ...]
+```
